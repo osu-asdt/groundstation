@@ -1,0 +1,7 @@
+.history
+*.lck
+*.bak
+production
+*backups*
+*DS_Store
+
